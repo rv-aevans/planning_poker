@@ -1,3 +1,8 @@
+# Fork from Antew on GitHub
+[Antew's Source Repo](https://github.com/antew/planning_poker)
+
+Thanks for sharing!
+
 # Planning Poker
 
 Create a room, https://poker.antew.dev
